@@ -1,0 +1,7 @@
+{
+    "openai_api_key": "Your_API_Key",
+    "stable_diffusion_api_key": "Your_API_Key",
+    "telegram_bot_token": "Your_Bot_Token",
+    "initial_prompt": "I am a bot for clothes advisor."
+  }
+  
