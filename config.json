@@ -1,7 +1,8 @@
 {
-    "openai_api_key": "Your_API_Key",
-    "stable_diffusion_api_key": "Your_API_Key",
-    "telegram_bot_token": "Your_Bot_Token",
-    "initial_prompt": "I am a bot for clothes advisor."
-  }
-  
+  "openai_api_key": "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",
+  "stable_diffusion_api_key": "sk-2kTawD9SPIjy1HWYRtUZnDop0WdeHNo60DGt7b2L8TCEL4sk",
+  "telegram_bot_token": "6709704055:AAEoZ59T362gDhfHRCdGARvRw7YnTOQUCgA",
+  "initial_prompt": "I am a bot for clothes shopping.",
+  "prompts": [],
+  "chat_logs": []
+}
